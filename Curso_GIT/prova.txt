@@ -9,4 +9,7 @@ Branch 2 v2
 Nueva linea 
 =======
 commit 4
->>>>>>> branch 'master' of https://github.com/jbalagues/GFT_GIT_Course.git
+
+
+commit 5
+merge
